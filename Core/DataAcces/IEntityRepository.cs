@@ -1,11 +1,12 @@
-﻿using System;
+﻿using Core.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
-using Entities.Abstract;
-using Entities.Concrete;
 
-namespace DataAccess.Abstract
+
+
+namespace Core.DataAcces
 {
     //Generic Constraint
     //T:class demek T türü sadece referans tür alabilir demek
